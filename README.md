@@ -40,9 +40,7 @@ SOLUTION
 └── yarn.lock
 ```
 
-## Overwiev
 
-![Snapshot](movie-app.gif)
 
 
 
