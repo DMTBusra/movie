@@ -7,7 +7,6 @@
 Project aims to create a Movie App.
 
 
-
 ## Project Skeleton
 
 ```
@@ -39,7 +38,8 @@ SOLUTION
 ├── .env
 └── yarn.lock
 ```
-
+## How To Use;
+$git clone 
 
 
 
