@@ -7,7 +7,6 @@
 Project aims to create a Movie App.
 
 
-
 ## Project Skeleton
 
 ```
@@ -40,7 +39,11 @@ SOLUTION
 └── yarn.lock
 ```
 ## How To Use;
+<<<<<<< HEAD
 $git clone https://github.com/DMTBusra/movie-react-firebase.git
+=======
+$git clone 
+>>>>>>> d02be2e3469987044e5b094ca80d164530b052b5
 
 
 # Install Dependencies;
