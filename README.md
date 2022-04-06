@@ -39,11 +39,14 @@ SOLUTION
 ├── .env
 └── yarn.lock
 ```
+## How To Use;
+$git clone https://github.com/DMTBusra/movie-react-firebase.git
 
-## Overwiev
 
-![Snapshot](movie-app.gif)
-
+# Install Dependencies;
+- yarn install
+- yarn add botstrap
+- yarn add react-router-dom
 
 
 ### Build with;
